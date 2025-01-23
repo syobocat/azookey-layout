@@ -12,32 +12,6 @@
       {
         "key": {
           "design": {
-            "color": "special",
-            "label": {
-              "text": "123"
-            }
-          },
-          "longpress_actions": {
-            "repeat": [],
-            "start": []
-          },
-          "press_actions": [
-            {
-              "type": "complete"
-            },
-            {
-              "identifier": "記号_表面",
-              "tab_type": "custom",
-              "type": "move_tab"
-            }
-          ],
-          "variations": []
-        },
-        "specifier_type": "grid_fit"
-      },
-      {
-        "key": {
-          "design": {
             "color": "normal",
             "label": {
               "text": "q"
@@ -1045,6 +1019,39 @@
           "height": 1,
           "width": 2,
           "x": 0,
+          "y": 3
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "special",
+            "label": {
+              "text": "123"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "type": "complete"
+            },
+            {
+              "identifier": "記号_表面",
+              "tab_type": "custom",
+              "type": "move_tab"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 2,
           "y": 3
         },
         "specifier_type": "grid_fit"
