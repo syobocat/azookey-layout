@@ -1,0 +1,1213 @@
+{
+  "identifier": "英語_非Shift面",
+  "input_style": "direct",
+  "interface": {
+    "key_layout": {
+      "column_count": 4,
+      "row_count": 22,
+      "type": "grid_fit"
+    },
+    "key_style": "pc_style",
+    "keys": [
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "q"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "q",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 0,
+          "y": 0
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "w"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "w",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 2,
+          "y": 0
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "e"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "e",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 4,
+          "y": 0
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "r"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "r",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 6,
+          "y": 0
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "t"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "t",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 8,
+          "y": 0
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "y"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "y",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 10,
+          "y": 0
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "u"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "u",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 12,
+          "y": 0
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "i"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "i",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 14,
+          "y": 0
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "o"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "o",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 16,
+          "y": 0
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "p"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "p",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 18,
+          "y": 0
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "special",
+            "label": {
+              "system_image": "delete.left"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [
+              {
+                "count": 1,
+                "type": "delete"
+              }
+            ],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "count": 1,
+              "type": "delete"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 20,
+          "y": 0
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "a"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "a",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 1,
+          "y": 1
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "s"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "s",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 3,
+          "y": 1
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "d"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "d",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 5,
+          "y": 1
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "f"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "f",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 7,
+          "y": 1
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "g"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "g",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 9,
+          "y": 1
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "h"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "h",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 11,
+          "y": 1
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "j"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "j",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 13,
+          "y": 1
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "k"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "k",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 15,
+          "y": 1
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "l"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "l",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 17,
+          "y": 1
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "type": "enter"
+        },
+        "key_type": "system",
+        "specifier": {
+          "height": 1,
+          "width": 3,
+          "x": 19,
+          "y": 1
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "special",
+            "label": {
+              "system_image": "shift"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "identifier": "英語_Shift面",
+              "tab_type": "custom",
+              "type": "move_tab"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 0,
+          "y": 2
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "z"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "z",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 2,
+          "y": 2
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "x"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "x",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 4,
+          "y": 2
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "c"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "c",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 6,
+          "y": 2
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "v"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "v",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 8,
+          "y": 2
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "b"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "b",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 10,
+          "y": 2
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "n"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "n",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 12,
+          "y": 2
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "m"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "m",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 14,
+          "y": 2
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": ","
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": ",",
+              "type": "input"
+            }
+          ],
+          "variations": [
+            {
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "!"
+                  }
+                },
+                "longpress_actions": {
+                  "repeat": [],
+                  "start": []
+                },
+                "press_actions": [
+                  {
+                    "text": "!",
+                    "type": "input"
+                  }
+                ]
+              },
+              "type": "longpress_variation"
+            }
+          ]
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 16,
+          "y": 2
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "."
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": ".",
+              "type": "input"
+            }
+          ],
+          "variations": [
+            {
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "?"
+                  }
+                },
+                "longpress_actions": {
+                  "repeat": [],
+                  "start": []
+                },
+                "press_actions": [
+                  {
+                    "text": "?",
+                    "type": "input"
+                  }
+                ]
+              },
+              "type": "longpress_variation"
+            }
+          ]
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 18,
+          "y": 2
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": "-"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "text": "-",
+              "type": "input"
+            }
+          ],
+          "variations": [
+            {
+              "key": {
+                "design": {
+                  "label": {
+                    "text": "_"
+                  }
+                },
+                "longpress_actions": {
+                  "repeat": [],
+                  "start": []
+                },
+                "press_actions": [
+                  {
+                    "text": "_",
+                    "type": "input"
+                  }
+                ]
+              },
+              "type": "longpress_variation"
+            }
+          ]
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 20,
+          "y": 2
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "special",
+            "label": {
+              "system_image": "globe"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "type": "complete"
+            },
+            {
+              "identifier": "user_japanese",
+              "tab_type": "system",
+              "type": "move_tab"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 0,
+          "y": 3
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "special",
+            "label": {
+              "text": "123"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "type": "complete"
+            },
+            {
+              "identifier": "記号_表面",
+              "tab_type": "custom",
+              "type": "move_tab"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 2,
+          "y": 3
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "special",
+            "label": {
+              "system_image": "clipboard"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": [
+              {
+                "type": "paste"
+              }
+            ]
+          },
+          "press_actions": [],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 4,
+          "y": 3
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "normal",
+            "label": {
+              "text": ""
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": [
+              {
+                "type": "toggle_cursor_bar"
+              }
+            ]
+          },
+          "press_actions": [
+            {
+              "text": " ",
+              "type": "input"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 10,
+          "x": 6,
+          "y": 3
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "special",
+            "label": {
+              "text": "←"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "count": -1,
+              "type": "move_cursor"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 16,
+          "y": 3
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "special",
+            "label": {
+              "text": "→"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "count": 1,
+              "type": "move_cursor"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 18,
+          "y": 3
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "special",
+            "label": {
+              "system_image": "keyboard.chevron.compact.down"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": []
+          },
+          "press_actions": [
+            {
+              "type": "dismiss_keyboard"
+            }
+          ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 20,
+          "y": 3
+        },
+        "specifier_type": "grid_fit"
+      }
+    ]
+  },
+  "language": "en_US",
+  "metadata": {
+    "custard_version": "1.2",
+    "display_name": "英語_非Shift面"
+  }
+}
