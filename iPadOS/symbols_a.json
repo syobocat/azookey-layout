@@ -700,7 +700,7 @@
           "design": {
             "color": "normal",
             "label": {
-              "text": "゙"
+              "text": "ﾞ"
             }
           },
           "longpress_actions": {
@@ -729,7 +729,7 @@
           "design": {
             "color": "normal",
             "label": {
-              "text": "゚"
+              "text": "ﾟ"
             }
           },
           "longpress_actions": {
