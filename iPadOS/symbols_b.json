@@ -965,14 +965,23 @@
           "design": {
             "color": "special",
             "label": {
-              "text": ""
+              "text": "ABC"
             }
           },
           "longpress_actions": {
             "repeat": [],
             "start": []
           },
-          "press_actions": [],
+          "press_actions": [
+            {
+              "type": "complete"
+            },
+            {
+              "identifier": "英語_非Shift面",
+              "tab_type": "custom",
+              "type": "move_tab"
+            }
+          ],
           "variations": []
         },
         "key_type": "custom",
@@ -989,23 +998,18 @@
           "design": {
             "color": "special",
             "label": {
-              "text": "123"
+              "system_image": "clipboard"
             }
           },
           "longpress_actions": {
             "repeat": [],
-            "start": []
+            "start": [
+              {
+                "type": "paste"
+              }
+            ]
           },
-          "press_actions": [
-            {
-              "type": "complete"
-            },
-            {
-              "identifier": "記号_表面",
-              "tab_type": "custom",
-              "type": "move_tab"
-            }
-          ],
+          "press_actions": [],
           "variations": []
         },
         "key_type": "custom",

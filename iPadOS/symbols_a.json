@@ -965,14 +965,23 @@
           "design": {
             "color": "special",
             "label": {
-              "text": ""
+              "text": "ABC"
             }
           },
           "longpress_actions": {
             "repeat": [],
             "start": []
           },
-          "press_actions": [],
+          "press_actions": [
+            {
+              "type": "complete"
+            },
+            {
+              "identifier": "英語_非Shift面",
+              "tab_type": "custom",
+              "type": "move_tab"
+            }
+          ],
           "variations": []
         },
         "key_type": "custom",

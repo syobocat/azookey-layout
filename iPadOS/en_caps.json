@@ -1028,30 +1028,6 @@
           "design": {
             "color": "special",
             "label": {
-              "text": ""
-            }
-          },
-          "longpress_actions": {
-            "repeat": [],
-            "start": []
-          },
-          "press_actions": [],
-          "variations": []
-        },
-        "key_type": "custom",
-        "specifier": {
-          "height": 1,
-          "width": 2,
-          "x": 2,
-          "y": 3
-        },
-        "specifier_type": "grid_fit"
-      },
-      {
-        "key": {
-          "design": {
-            "color": "special",
-            "label": {
               "text": "123"
             }
           },
@@ -1069,6 +1045,34 @@
               "type": "move_tab"
             }
           ],
+          "variations": []
+        },
+        "key_type": "custom",
+        "specifier": {
+          "height": 1,
+          "width": 2,
+          "x": 2,
+          "y": 3
+        },
+        "specifier_type": "grid_fit"
+      },
+      {
+        "key": {
+          "design": {
+            "color": "special",
+            "label": {
+              "system_image": "clipboard"
+            }
+          },
+          "longpress_actions": {
+            "repeat": [],
+            "start": [
+              {
+                "type": "paste"
+              }
+            ]
+          },
+          "press_actions": [],
           "variations": []
         },
         "key_type": "custom",
